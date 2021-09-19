@@ -185,8 +185,10 @@ nav:hover .menu-bar{
 
 /* quality section */
 #quality{
-    background: linear-gradient(-40deg, rgb(210, 211, 211),rgb(216, 214, 214), rgba(170, 132, 150, 0.1))
-   /* background: linear-gradient(to right, rgb(241, 241, 241),rgb(221, 221, 221),rgb(196, 195, 195),rgb(197, 196, 196), rgb(156, 134, 134)); */
+    background-image: url(../img/g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .quality-container{
